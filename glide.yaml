@@ -1,0 +1,7 @@
+package: github.com/apoberez/pc
+import:
+- package: github.com/julienschmidt/httprouter
+  version: ^1.1.0
+- package: github.com/justinas/alice
+  version: 1.0.0
+- package: github.com/bmizerany/pq
